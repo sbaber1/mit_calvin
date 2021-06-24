@@ -4,7 +4,8 @@ Code for Calibration Value INtegration (CalVIN) project
 ### Case 1: Crop Classification
 
 #### Google Earth Engine Scripts
-Google Earth Engine Scripts
+
+#### Background modules
 - Band Perturbations: https://code.earthengine.google.com/0bedffd12b7460f45f90ace6186a8823
 - Compositing: https://code.earthengine.google.com/e8a1e04b768a68969a052f6e9ae3ca0b
 - Classification: https://code.earthengine.google.com/b3eb2917ef576e41cbb626776a3224c1
